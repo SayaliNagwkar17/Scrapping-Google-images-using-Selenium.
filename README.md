@@ -1,0 +1,2 @@
+# Scrapping-Google-images-using-Selenium.
+Do a Google search of any keyword for which need to download images. The keyword related to Google Images will be obtained. Then,  specified the count of an image that needs to be downloaded. The program downloaded only that particular number of images, as per the specified count. If 100 count is specified, then the program will download no more than 100 images.
